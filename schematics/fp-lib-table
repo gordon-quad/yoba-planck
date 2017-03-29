@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name yoba)(type KiCad)(uri "$(KIPRJMOD)/yoba.pretty")(options "")(descr ""))
+  (lib (name mx1a)(type Legacy)(uri "$(KIPRJMOD)/mx1a.mod")(options "")(descr ""))
+)
